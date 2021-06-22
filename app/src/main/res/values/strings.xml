@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="name">Name</string>
+    <string name="user_name">Username</string>
+    <string name="followers">Followers\n%s</string>
+    <string name="following">Following\n%s</string>
+    <string name="_followers_">Followers</string>
+    <string name="_following_">Following</string>
+    <string name="dummy_number">134679</string>
+    <string name="logo">Logo</string>
+    <string name="_followers">icon followers</string>
+    <string name="_repository">icon repository</string>
+    <string name="_following">icon following</string>
+    <string name="repository">Repository\n%s</string>
+    <string name="about">About</string>
+    <string name="_company">icon company</string>
+    <string name="_location">icon location</string>
+    <string name="search">Search Username</string>
+    <string name="button_search">Button Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Hello, this is fragment</string>
+    <string name="language_settings">Change Language Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="key_language" translatable="false">language</string>
+    <string name="alarm_text">Reminder at 9.00 AM</string>
+    <string name="key_alarm" translatable="false">alarm</string>
+</resources>

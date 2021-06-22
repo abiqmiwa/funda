@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="name">Nama</string>
+    <string name="user_name">Nama pengguna</string>
+    <string name="followers">Pengikut\n%s</string>
+    <string name="following">Mengikuti\n%s</string>
+    <string name="_followers_">Pengikut</string>
+    <string name="_following_">Mengikuti</string>
+    <string name="dummy_number">134679</string>
+    <string name="logo">Logo</string>
+    <string name="_followers">simbol pengikut</string>
+    <string name="_repository">simbol repositori</string>
+    <string name="_following">simbol mengikuti</string>
+    <string name="repository">Repositori \n %s</string>
+    <string name="about">Tentang</string>
+    <string name="_company">simbol perusahaan</string>
+    <string name="_location">simbol lokasi</string>
+    <string name="search">cari pengguna</string>
+    <string name="button_search">Tombol Cari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Hai, ini fragmen</string>
+    <string name="language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="alarm_text">Ingkatkan pada pukul 9.00 </string>
+</resources>
